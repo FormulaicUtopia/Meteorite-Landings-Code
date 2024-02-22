@@ -1,6 +1,5 @@
 # Meteorite-Landings-Code
-Description:                                                                                                                                                                 
-                                                                                                                                                                             
+Description:                                                                                                                                                                      
 Meteorite landings dataset from data.gov reviewed using RStudio
 
 Data Sources:                                                                                
